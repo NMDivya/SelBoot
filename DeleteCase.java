@@ -18,7 +18,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class DeleteCase {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
-		// TODO Auto-generated method stub
+		
 		// DISABLE BROWSER NOTIFICATIONS AND LAUNCH THE WEBPAGE
 		ChromeOptions options1 = new ChromeOptions();
 		options1.addArguments("--disable-notifications");
