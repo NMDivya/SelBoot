@@ -1,1 +1,2 @@
 hello github to local git
+Life is good
